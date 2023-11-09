@@ -1,0 +1,237 @@
+[
+  {
+    "name": "PMC G1 Dr.Dalvi Hospital",
+    "sessions": [
+      {
+        "available_capacity": 50,
+        "vaccine": "iNCOVACC"
+      },
+      {
+        "available_capacity": 50,
+        "vaccine": "iNCOVACC"
+      },
+      {
+        "available_capacity": 50,
+        "vaccine": "iNCOVACC"
+      }
+    ]
+  },
+  {
+    "name": "PCMC Vighanaharta Sai Hospital",
+    "sessions": [
+      {
+        "available_capacity": 200,
+        "vaccine": "COVOVAX"
+      },
+      {
+        "available_capacity": 600,
+        "vaccine": "iNCOVACC"
+      },
+      {
+        "available_capacity": 400,
+        "vaccine": "COVOVAX"
+      },
+      {
+        "available_capacity": 200,
+        "vaccine": "COVOVAX"
+      },
+      {
+        "available_capacity": 600,
+        "vaccine": "iNCOVACC"
+      },
+      {
+        "available_capacity": 400,
+        "vaccine": "COVOVAX"
+      },
+      {
+        "available_capacity": 600,
+        "vaccine": "iNCOVACC"
+      },
+      {
+        "available_capacity": 200,
+        "vaccine": "COVOVAX"
+      },
+      {
+        "available_capacity": 400,
+        "vaccine": "COVOVAX"
+      },
+      {
+        "available_capacity": 200,
+        "vaccine": "COVOVAX"
+      },
+      {
+        "available_capacity": 600,
+        "vaccine": "iNCOVACC"
+      },
+      {
+        "available_capacity": 400,
+        "vaccine": "COVOVAX"
+      },
+      {
+        "available_capacity": 400,
+        "vaccine": "COVOVAX"
+      },
+      {
+        "available_capacity": 200,
+        "vaccine": "COVOVAX"
+      },
+      {
+        "available_capacity": 600,
+        "vaccine": "iNCOVACC"
+      },
+      {
+        "available_capacity": 400,
+        "vaccine": "COVOVAX"
+      },
+      {
+        "available_capacity": 200,
+        "vaccine": "COVOVAX"
+      },
+      {
+        "available_capacity": 600,
+        "vaccine": "iNCOVACC"
+      },
+      {
+        "available_capacity": 400,
+        "vaccine": "COVOVAX"
+      },
+      {
+        "available_capacity": 600,
+        "vaccine": "iNCOVACC"
+      },
+      {
+        "available_capacity": 200,
+        "vaccine": "COVOVAX"
+      }
+    ]
+  },
+  {
+    "name": "PMC G2 Kamala Nehru Hosp",
+    "sessions": [
+      {
+        "available_capacity": 50,
+        "vaccine": "iNCOVACC"
+      },
+      {
+        "available_capacity": 50,
+        "vaccine": "iNCOVACC"
+      },
+      {
+        "available_capacity": 50,
+        "vaccine": "iNCOVACC"
+      }
+    ]
+  },
+  {
+    "name": "PMC G7 Anna Saheb Magar",
+    "sessions": [
+      {
+        "available_capacity": 50,
+        "vaccine": "iNCOVACC"
+      },
+      {
+        "available_capacity": 49,
+        "vaccine": "iNCOVACC"
+      },
+      {
+        "available_capacity": 50,
+        "vaccine": "iNCOVACC"
+      }
+    ]
+  },
+  {
+    "name": "PMC G12 Jayabai Sutar Ho",
+    "sessions": [
+      {
+        "available_capacity": 50,
+        "vaccine": "iNCOVACC"
+      },
+      {
+        "available_capacity": 50,
+        "vaccine": "iNCOVACC"
+      },
+      {
+        "available_capacity": 50,
+        "vaccine": "iNCOVACC"
+      }
+    ]
+  },
+  {
+    "name": "PMC G13 DRAUPADA KHEDEKAR",
+    "sessions": [
+      {
+        "available_capacity": 50,
+        "vaccine": "iNCOVACC"
+      },
+      {
+        "available_capacity": 50,
+        "vaccine": "iNCOVACC"
+      },
+      {
+        "available_capacity": 50,
+        "vaccine": "iNCOVACC"
+      }
+    ]
+  },
+  {
+    "name": "PCMC Pritam Childrens Hospital",
+    "sessions": [
+      {
+        "available_capacity": 20,
+        "vaccine": "COVOVAX"
+      },
+      {
+        "available_capacity": 40,
+        "vaccine": "COVOVAX"
+      },
+      {
+        "available_capacity": 20,
+        "vaccine": "COVOVAX"
+      },
+      {
+        "available_capacity": 40,
+        "vaccine": "COVOVAX"
+      },
+      {
+        "available_capacity": 20,
+        "vaccine": "COVOVAX"
+      },
+      {
+        "available_capacity": 40,
+        "vaccine": "COVOVAX"
+      },
+      {
+        "available_capacity": 40,
+        "vaccine": "COVOVAX"
+      },
+      {
+        "available_capacity": 20,
+        "vaccine": "COVOVAX"
+      },
+      {
+        "available_capacity": 20,
+        "vaccine": "COVOVAX"
+      },
+      {
+        "available_capacity": 40,
+        "vaccine": "COVOVAX"
+      },
+      {
+        "available_capacity": 20,
+        "vaccine": "COVOVAX"
+      },
+      {
+        "available_capacity": 40,
+        "vaccine": "COVOVAX"
+      },
+      {
+        "available_capacity": 20,
+        "vaccine": "COVOVAX"
+      },
+      {
+        "available_capacity": 40,
+        "vaccine": "COVOVAX"
+      }
+    ]
+  }
+]
